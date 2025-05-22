@@ -1,0 +1,3 @@
+[tool.poetry]
+# ... other configurations ...
+license = "MIT" 

@@ -1,0 +1,7 @@
+{
+  "python": {
+    "formatter": "black",
+    "linter": "flake8",
+    "typeChecker": "mypy"
+  }
+}
