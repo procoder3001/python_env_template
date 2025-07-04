@@ -35,6 +35,10 @@ hcp profile init --vault-secrets
 
 ## Project Setup
 
+why we use poetry and pyenv:
+- pyenv ensures your project uses the exact Python version you want, even if it’s not the system default.
+- Poetry by itself doesn’t install or manage Python versions — it just uses what’s available.
+
 1. Create and activate a new Python environment:
 ```sh
 # Install Python version
